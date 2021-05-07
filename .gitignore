@@ -1,0 +1,4 @@
+.snowpack
+.devcontainer
+build
+node_modules
