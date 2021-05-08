@@ -6,7 +6,7 @@ module.exports = {
     src: '/dist'
   },
   plugins: [
-    /* ... */
+    "snowpack-plugin-less",
   ],
   routes: [
     /* Enable an SPA Fallback in development: */
